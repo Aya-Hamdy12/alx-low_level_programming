@@ -2,7 +2,7 @@
 #include "stdlib.h"
 
 /**
- * create_array - returns a pointer to the first byte of the allocated memory block
+ * *create_array - returns a pointer to the first byte of the allocated memory block
  * @c: the address of memory to print
  * @size: the size of the memory to print
  * Return: Char character c
